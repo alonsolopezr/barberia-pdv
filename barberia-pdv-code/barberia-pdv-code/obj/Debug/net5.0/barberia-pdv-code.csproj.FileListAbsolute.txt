@@ -1,0 +1,15 @@
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/bin/Debug/net5.0/barberia-pdv-code.deps.json
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/bin/Debug/net5.0/barberia-pdv-code.runtimeconfig.json
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/bin/Debug/net5.0/barberia-pdv-code.runtimeconfig.dev.json
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/bin/Debug/net5.0/barberia-pdv-code.dll
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/bin/Debug/net5.0/ref/barberia-pdv-code.dll
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/bin/Debug/net5.0/barberia-pdv-code.pdb
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/barberia-pdv-code.csprojAssemblyReference.cache
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/barberia-pdv-code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/barberia-pdv-code.AssemblyInfoInputs.cache
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/barberia-pdv-code.AssemblyInfo.cs
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/barberia-pdv-code.csproj.CoreCompileInputs.cache
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/barberia-pdv-code.dll
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/ref/barberia-pdv-code.dll
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/barberia-pdv-code.pdb
+/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/barberia-pdv-code.genruntimeconfig.cache
