@@ -38,5 +38,36 @@ namespace barberia_pdv_code.Barberia
             this.listaDeServicios.Add(new Servicio("Planchado de ceja", 33.25));
         }
 
+        //login
+        public bool login(string correo, string pwd)
+        {
+            bool res = false;
+            //buscamos en cliente
+            int idxCliente = bdClientes.IndexOf(new Cliente("", "", "", "", correo, pwd));
+            //buscamos en bdBarbero
+            int idxBarbero = bdBarberos.IndexOf(new Barbero("", "", "", "", correo, pwd));
+            if (idxCliente < 0 && idxBarbero < 0)
+            {
+                Console.WriteLine("Usuario no registrado.. ve con al admin...");
+                res = false;
+            }
+            else if(idxBarbero>=0)
+            {
+                Console.WriteLine("Bienvenido barbero...");
+                listaDeBarberos.Add(bdBarberos[idxBarbero]);
+                Console.WriteLine(bdBarberos[idxBarbero]);
+                res = true;
+            } else if(idxCliente>=0)
+            {
+                Console.WriteLine("Bienvenido cliente...");
+                listaDeClientes.Add(bdClientes[idxCliente]);
+                Console.WriteLine(listaDeClientes[listaDeClientes.Count - 1]);
+                res = true;
+            }
+
+
+            return res;
+        }
+
     }
 }
