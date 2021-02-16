@@ -1,21 +1,21 @@
 ﻿<Properties StartupConfiguration="{3C57CCB8-59F0-4D4F-84A8-B6A6832EC530}|Default">
   <MonoDevelop.Ide.ItemProperties.barberia-pdv-code FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="barberia-pdv-code/readme.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument="barberia-pdv-code/Barberia/Operacion.cs">
     <Files>
       <File FileName="barberia-pdv-code/Program.cs" Line="1" Column="1" />
       <File FileName="barberia-pdv-code/Barberia/Persona.cs" />
       <File FileName="barberia-pdv-code/Barberia/Barbero.cs" />
       <File FileName="barberia-pdv-code/Barberia/Cliente.cs" />
-      <File FileName="barberia-pdv-code/Barberia/Operacion.cs" Line="49" Column="40" />
+      <File FileName="barberia-pdv-code/Barberia/Operacion.cs" Line="49" Column="2" />
       <File FileName="barberia-pdv-code/Barberia/Servicio.cs" />
-      <File FileName="barberia-pdv-code/readme.md" Line="1" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="barberia-pdv-code" expanded="True">
             <Node name="barberia-pdv-code" expanded="True">
-              <Node name="readme.md" selected="True" />
+              <Node name="Barberia" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
