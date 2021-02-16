@@ -1,0 +1,2 @@
+C:\Users\David\source\repos\barberia-pdv\barberia-pdv\obj\Debug\barberia-pdv.csprojAssemblyReference.cache
+C:\Users\David\source\repos\barberia-pdv\barberia-pdv\obj\Debug\barberia-pdv.csproj.CoreCompileInputs.cache
