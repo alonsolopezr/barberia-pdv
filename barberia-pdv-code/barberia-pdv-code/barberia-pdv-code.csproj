@@ -8,6 +8,5 @@
 
   <ItemGroup>
     <Folder Include="Barberia\" />
-    <Folder Include="sdsds\" />
   </ItemGroup>
 </Project>
