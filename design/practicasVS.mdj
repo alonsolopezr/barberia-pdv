@@ -1146,8 +1146,8 @@
 											},
 											"visible": false,
 											"font": "Arial;20;0",
-											"left": -896,
-											"top": -256,
+											"left": -624,
+											"top": -320,
 											"height": 20
 										},
 										{
@@ -1157,8 +1157,8 @@
 												"$ref": "AAAAAAF3qHIJQY0J0n4="
 											},
 											"font": "Arial;20;1",
-											"left": 477,
-											"top": 55,
+											"left": 613,
+											"top": 23,
 											"width": 226.19140625,
 											"height": 20,
 											"text": "Program"
@@ -1171,8 +1171,8 @@
 											},
 											"visible": false,
 											"font": "Arial;20;0",
-											"left": -896,
-											"top": -256,
+											"left": -624,
+											"top": -320,
 											"width": 113.349609375,
 											"height": 20,
 											"text": "(from Model)"
@@ -1185,15 +1185,15 @@
 											},
 											"visible": false,
 											"font": "Arial;20;0",
-											"left": -896,
-											"top": -256,
+											"left": -624,
+											"top": -320,
 											"height": 20,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;20;0",
-									"left": 472,
-									"top": 48,
+									"left": 608,
+									"top": 16,
 									"width": 236.19140625,
 									"height": 32,
 									"stereotypeLabel": {
@@ -1219,8 +1219,8 @@
 										"$ref": "AAAAAAF3qHIJQY0GWyo="
 									},
 									"font": "Arial;20;0",
-									"left": 472,
-									"top": 80,
+									"left": 608,
+									"top": 48,
 									"width": 236.19140625,
 									"height": 10
 								},
@@ -1244,8 +1244,8 @@
 												"$ref": "AAAAAAF3qHIyMo0wD9k="
 											},
 											"font": "Arial;20;0",
-											"left": 477,
-											"top": 95,
+											"left": 613,
+											"top": 63,
 											"width": 226.19140625,
 											"height": 20,
 											"underline": true,
@@ -1254,8 +1254,8 @@
 										}
 									],
 									"font": "Arial;20;0",
-									"left": 472,
-									"top": 90,
+									"left": 608,
+									"top": 58,
 									"width": 236.19140625,
 									"height": 30
 								},
@@ -1270,8 +1270,8 @@
 									},
 									"visible": false,
 									"font": "Arial;20;0",
-									"left": -448,
-									"top": -128,
+									"left": -312,
+									"top": -160,
 									"width": 10,
 									"height": 10
 								},
@@ -1286,16 +1286,16 @@
 									},
 									"visible": false,
 									"font": "Arial;20;0",
-									"left": -448,
-									"top": -128,
+									"left": -312,
+									"top": -160,
 									"width": 10,
 									"height": 10
 								}
 							],
 							"font": "Arial;20;0",
 							"containerChangeable": true,
-							"left": 472,
-							"top": 48,
+							"left": 608,
+							"top": 16,
 							"width": 236.19140625,
 							"height": 72,
 							"nameCompartment": {
@@ -1491,6 +1491,42 @@
 											"height": 20,
 											"text": "+turnos: ArregloDe20_Ints",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAF3qJ59iJESIPM=",
+											"_parent": {
+												"$ref": "AAAAAAF3qHM8c41F5Vg="
+											},
+											"model": {
+												"$ref": "AAAAAAF3qJ59YJEPB8M="
+											},
+											"fillColor": "#ffadad",
+											"font": "Arial;20;0",
+											"left": 333,
+											"top": 445,
+											"width": 500.810546875,
+											"height": 20,
+											"text": "+bdClientes: List<Cliente>",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAF3qJ7IJZEuCRQ=",
+											"_parent": {
+												"$ref": "AAAAAAF3qHM8c41F5Vg="
+											},
+											"model": {
+												"$ref": "AAAAAAF3qJ7IC5ErMdg="
+											},
+											"fillColor": "#ffadad",
+											"font": "Arial;20;0",
+											"left": 333,
+											"top": 467,
+											"width": 500.810546875,
+											"height": 20,
+											"text": "+bdBarberos: List<Barbero>",
+											"horizontalAlignment": 0
 										}
 									],
 									"fillColor": "#ffadad",
@@ -1498,7 +1534,7 @@
 									"left": 328,
 									"top": 352,
 									"width": 510.810546875,
-									"height": 96
+									"height": 140
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -1522,7 +1558,7 @@
 											"fillColor": "#ffadad",
 											"font": "Arial;20;0",
 											"left": 333,
-											"top": 453,
+											"top": 497,
 											"width": 500.810546875,
 											"height": 20,
 											"text": "+login(correo: string, pwd: string): bool",
@@ -1540,7 +1576,7 @@
 											"fillColor": "#ffadad",
 											"font": "Arial;20;0",
 											"left": 333,
-											"top": 475,
+											"top": 519,
 											"width": 500.810546875,
 											"height": 20,
 											"text": "+asignarBarberoACliente(cli: Cliente, bar: Barbero): bool",
@@ -1558,7 +1594,7 @@
 											"fillColor": "#ffadad",
 											"font": "Arial;20;0",
 											"left": 333,
-											"top": 497,
+											"top": 541,
 											"width": 500.810546875,
 											"height": 20,
 											"text": "+tomarTurno(cli: Cliente): bool",
@@ -1568,7 +1604,7 @@
 									"fillColor": "#ffadad",
 									"font": "Arial;20;0",
 									"left": 328,
-									"top": 448,
+									"top": 492,
 									"width": 510.810546875,
 									"height": 74
 								},
@@ -1616,7 +1652,7 @@
 							"left": 328,
 							"top": 320,
 							"width": 510.810546875,
-							"height": 202,
+							"height": 246,
 							"nameCompartment": {
 								"$ref": "AAAAAAF3qHM8co1AS10="
 							},
@@ -1829,8 +1865,8 @@
 							},
 							"fillColor": "#ebd8ff",
 							"font": "Arial;20;0",
-							"left": 384,
-							"top": 536,
+							"left": 568,
+							"top": 576,
 							"width": 457,
 							"height": 217,
 							"text": "Arreglo de barba .................................$120.50\nRecorte de barba sin delineado ......... $145.23\nRasurado completo ...........................  $100.00\nTratamiento de crecimiento de barba  $233.56\nSpa de barba ......................................  $89.99\nArreglo de bigote ................................. $44.10\nRecorte de bigote sin delineado .........  $40.10\nRecorte de ceja  ..................................  $23.30\nPlanchado de ceja ...............................  $33.25\n"
@@ -1856,8 +1892,8 @@
 									},
 									"visible": false,
 									"font": "Arial;20;0",
-									"left": 711,
-									"top": 290,
+									"left": 717,
+									"top": 289,
 									"height": 20,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1877,8 +1913,8 @@
 									},
 									"visible": null,
 									"font": "Arial;20;0",
-									"left": 722,
-									"top": 300,
+									"left": 729,
+									"top": 298,
 									"height": 20,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1898,8 +1934,8 @@
 									},
 									"visible": false,
 									"font": "Arial;20;0",
-									"left": 688,
-									"top": 269,
+									"left": 694,
+									"top": 270,
 									"height": 20,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1919,7 +1955,7 @@
 									},
 									"visible": false,
 									"font": "Arial;20;0",
-									"left": 719,
+									"left": 725,
 									"top": 281,
 									"height": 20,
 									"alpha": 0.5235987755982988,
@@ -1940,7 +1976,7 @@
 									},
 									"visible": false,
 									"font": "Arial;20;0",
-									"left": 727,
+									"left": 733,
 									"top": 291,
 									"height": 20,
 									"alpha": 0.7853981633974483,
@@ -1961,8 +1997,8 @@
 									},
 									"visible": false,
 									"font": "Arial;20;0",
-									"left": 702,
-									"top": 259,
+									"left": 706,
+									"top": 260,
 									"height": 20,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -1982,8 +2018,8 @@
 									},
 									"visible": false,
 									"font": "Arial;20;0",
-									"left": 702,
-									"top": 299,
+									"left": 711,
+									"top": 298,
 									"height": 20,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -2002,8 +2038,8 @@
 									},
 									"visible": false,
 									"font": "Arial;20;0",
-									"left": 713,
-									"top": 307,
+									"left": 722,
+									"top": 305,
 									"height": 20,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -2022,7 +2058,7 @@
 									},
 									"visible": false,
 									"font": "Arial;20;0",
-									"left": 679,
+									"left": 687,
 									"top": 284,
 									"height": 20,
 									"alpha": 0.5235987755982988,
@@ -2068,7 +2104,7 @@
 								"$ref": "AAAAAAF3qG7MYoxzyKs="
 							},
 							"lineStyle": 1,
-							"points": "726:262;674:319",
+							"points": "730:262;683:319",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF3qIJNaI4c++o="
@@ -2103,6 +2139,34 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAF3qIJNaI4m4uk="
 							}
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAF3qKgCEpMSZeo=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#d8ffeb",
+							"font": "Arial;20;0",
+							"left": 8,
+							"top": 584,
+							"width": 545,
+							"height": 132,
+							"text": "nombre: Alonso alonso@gmail . contraseña: 123123123          nombre: Antonio antonio@gmail . contraseña: 123123123     nombre: Alfonso alfonso@gmail . contraseña: 123123123"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAF3qKmWMpOgzmw=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#ffe2d8",
+							"font": "Arial;20;0",
+							"left": 8,
+							"top": 16,
+							"width": 521,
+							"height": 97,
+							"text": "nombre: Luis Luis@gmail . contraseña: 123123123          nombre: Lewis lewis@gmail . contraseña: 123123123     nombre: Levis levis@gmail . contraseña: 123123123"
 						}
 					]
 				},
@@ -2303,6 +2367,24 @@
 									},
 									"name": "turnos",
 									"type": "ArregloDe20_Ints"
+								},
+								{
+									"_type": "UMLAttribute",
+									"_id": "AAAAAAF3qJ59YJEPB8M=",
+									"_parent": {
+										"$ref": "AAAAAAF3qHM8co09WaM="
+									},
+									"name": "bdClientes",
+									"type": "List<Cliente>"
+								},
+								{
+									"_type": "UMLAttribute",
+									"_id": "AAAAAAF3qJ7IC5ErMdg=",
+									"_parent": {
+										"$ref": "AAAAAAF3qHM8co09WaM="
+									},
+									"name": "bdBarberos",
+									"type": "List<Barbero>"
 								}
 							],
 							"operations": [
