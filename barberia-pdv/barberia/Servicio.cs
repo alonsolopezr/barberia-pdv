@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace barberia_pdv.barberia
 {
-    class Servicio
+    public class Servicio
     {
         public string servicio { get; set; }
         public double precio { get; set; }

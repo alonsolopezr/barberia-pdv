@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace barberia_pdv.barberia
 {
-    class Operancion
+    public class Operancion
     {
         List<Cliente> listaDeClientes= new List<Cliente>();
         List<Barbero> listaDeBarberos= new List<Barbero>(); 
@@ -20,12 +20,12 @@ namespace barberia_pdv.barberia
             new Cliente("Alonso","Lopez","Romo", "6622331122", "alonso@gmail.com","123123123")
 
         };
-        List<Cliente> bdBarberos = new List<Cliente>() {
+        List<Barbero> bdBarberos = new List<Barbero>() {
 
-            new Cliente("Alonso","Lopez","Romo", "6622331122", "alonso@gmail.com","123123123"),
-            new Cliente("Alonso","Lopez","Romo", "6622331122", "alonso@gmail.com","123123123"),
-            new Cliente("Alonso","Lopez","Romo", "6622331122", "alonso@gmail.com","123123123"),
-            new Cliente("Alonso","Lopez","Romo", "6622331122", "alonso@gmail.com","123123123")
+            new Barbero("Alonso","Lopez","Romo", "6622331122", "alonso@gmail.com","123123123"),
+            new Barbero("Alonso","Lopez","Romo", "6622331122", "alonso@gmail.com","123123123"),
+            new Barbero("Alonso","Lopez","Romo", "6622331122", "alonso@gmail.com","123123123"),
+            new Barbero("Alonso","Lopez","Romo", "6622331122", "alonso@gmail.com","123123123")
 
 
         };
@@ -51,9 +51,27 @@ namespace barberia_pdv.barberia
 
         public bool login(string correo, string pws)
         {
+   
+            int idxC = bdClientes.IndexOf(new Cliente("", "", "", "", correo, pws));
+            int idxB = bdBarberos.IndexOf(new Barbero("", "", "", "", correo, pws));
 
 
-
+            if (idxC == -1 && idxB==-1)
+            {
+                Console.WriteLine("ERROR");
+            }
+            else {
+                if (idxB != -1) {
+                    Console.WriteLine("Bienvenido Barbero...");
+                    listaDeBarberos.Add(bdBarberos[idxB]);
+                }
+                if (idxC != -1) {
+                    Console.WriteLine("Bienvenido Cliente...");
+                    listaDeClientes.Add(bdClientes[idxC]);
+                }
+            
+            }
+            
 
             return true;
         }

@@ -10,6 +10,12 @@ namespace barberia_pdv
     {
         static void Main(string[] args)
         {
+
+
+
+
+            Console.WriteLine("Bienvenido... Introdusca sus credenciales (Correo y Contraseña)");
+            correolog = Console.ReadLine();
         }
     }
 }
