@@ -6,4 +6,8 @@
     <RootNamespace>barberia_pdv_code</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Barberia\" />
+    <Folder Include="sdsds\" />
+  </ItemGroup>
 </Project>

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/barberia-pdv-code.csproj": {}
+    "/Users/aloncello/code/dotNET/poo/barberia-pdv/barberia-pdv/barberia-pdv-code/barberia-pdv-code/barberia-pdv-code.csproj": {}
   },
   "projects": {
-    "/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/barberia-pdv-code.csproj": {
+    "/Users/aloncello/code/dotNET/poo/barberia-pdv/barberia-pdv/barberia-pdv-code/barberia-pdv-code/barberia-pdv-code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/barberia-pdv-code.csproj",
+        "projectUniqueName": "/Users/aloncello/code/dotNET/poo/barberia-pdv/barberia-pdv/barberia-pdv-code/barberia-pdv-code/barberia-pdv-code.csproj",
         "projectName": "barberia-pdv-code",
-        "projectPath": "/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/barberia-pdv-code.csproj",
+        "projectPath": "/Users/aloncello/code/dotNET/poo/barberia-pdv/barberia-pdv/barberia-pdv-code/barberia-pdv-code/barberia-pdv-code.csproj",
         "packagesPath": "/Users/aloncello/.nuget/packages/",
-        "outputPath": "/Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/",
+        "outputPath": "/Users/aloncello/code/dotNET/poo/barberia-pdv/barberia-pdv/barberia-pdv-code/barberia-pdv-code/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/aloncello/.nuget/NuGet/NuGet.Config"
+          "/Users/aloncello/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
