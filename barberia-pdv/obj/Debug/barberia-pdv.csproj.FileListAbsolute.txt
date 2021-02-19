@@ -1,2 +1,7 @@
 C:\Users\David\source\repos\barberia-pdv\barberia-pdv\obj\Debug\barberia-pdv.csprojAssemblyReference.cache
 C:\Users\David\source\repos\barberia-pdv\barberia-pdv\obj\Debug\barberia-pdv.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\barberia-pdv\barberia-pdv\bin\Debug\barberia-pdv.exe.config
+C:\Users\David\source\repos\barberia-pdv\barberia-pdv\bin\Debug\barberia-pdv.exe
+C:\Users\David\source\repos\barberia-pdv\barberia-pdv\bin\Debug\barberia-pdv.pdb
+C:\Users\David\source\repos\barberia-pdv\barberia-pdv\obj\Debug\barberia-pdv.exe
+C:\Users\David\source\repos\barberia-pdv\barberia-pdv\obj\Debug\barberia-pdv.pdb

@@ -45,7 +45,7 @@
   <ItemGroup>
     <Compile Include="barberia\Barbero.cs" />
     <Compile Include="barberia\Cliente.cs" />
-    <Compile Include="barberia\Operancion.cs" />
+    <Compile Include="barberia\Operacion.cs" />
     <Compile Include="barberia\Persona.cs" />
     <Compile Include="barberia\Servicio.cs" />
     <Compile Include="Program.cs" />

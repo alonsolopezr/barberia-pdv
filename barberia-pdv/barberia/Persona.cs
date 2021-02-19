@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace barberia_pdv.barberia
 {
-    public class Persona
+    public abstract class  Persona
     {
         //attributos
         protected string Nombre { get; set; }
