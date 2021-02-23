@@ -6,10 +6,15 @@ namespace barberia_pdv_code.Barberia
         public string servicio { get; set; }
         public double Precio { get; set; }
 
-
-        public Servicio(string nom, double precio)
+        public override string ToString()
         {
-            this.servicio = nom;
+            return " Servicio: "+servicio + " Precio $"+Precio;
+        }
+
+
+        public Servicio(string serv, double precio)
+        {
+            this.servicio = serv;
             this.Precio = precio;
         }
     }
