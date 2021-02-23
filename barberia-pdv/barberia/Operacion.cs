@@ -89,18 +89,20 @@ namespace barberia_pdv.barberia
         }
         public Cliente ListarServicios(Cliente c)
         {
-            string resp;
+            int resp;
             Console.WriteLine("Que servicio desea solicitar (ingrese uno a la ves)");
             for (int i = 0; i < listaDeServicios.Count; i++)
             {
-                Console.WriteLine($"{0}. {1}\t\t{2}", i, listaDeServicios[i].servicio, listaDeServicios[i].precio);
+                Console.WriteLine(i+". "+listaDeServicios[i].servicio+"\t\t"+listaDeServicios[i].precio);
             }
-            Console.WriteLine($"{0}. Terminar de agregar servicios", listaDeServicios.Count + 1);
-            resp = Console.ReadLine();
+            Console.WriteLine(listaDeServicios.Count + ". Terminar de agregar servicios" );
+            resp = int.Parse(Console.ReadLine()[0].ToString());
 
-            while (resp.ToString() != listaDeServicios.Count + 1.ToString())
+            while (resp != (listaDeServicios.Count ))
             {
-                c.listServ.Add(listaDeServicios[int.Parse(resp)]);
+                c.listServ.Add(listaDeServicios[resp]);
+                Console.WriteLine("Se agrego el servicio "+listaDeServicios[resp].servicio);
+                resp = int.Parse(Console.ReadLine()[0].ToString());
             }
             if (c.listServ.Count == 0)
             {

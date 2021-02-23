@@ -35,6 +35,9 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -48,11 +51,22 @@
     <Compile Include="barberia\Operacion.cs" />
     <Compile Include="barberia\Persona.cs" />
     <Compile Include="barberia\Servicio.cs" />
+    <Compile Include="BarberShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BarberShop.Designer.cs">
+      <DependentUpon>BarberShop.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BarberShop.resx">
+      <DependentUpon>BarberShop.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

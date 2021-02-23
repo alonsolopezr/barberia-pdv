@@ -11,9 +11,10 @@ namespace barberia_pdv.barberia
         public string servicio { get; set; }
         public double precio { get; set; }
 
-        public Servicio(string servicio, double precio) { 
-        
-        
+        public Servicio(string servicio, double precio) {
+
+            this.servicio = servicio;
+            this.precio = precio;
         
         }
     }

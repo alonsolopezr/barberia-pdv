@@ -9,7 +9,7 @@ namespace barberia_pdv.barberia
     public class Cliente : Persona
     {
         int turno { get; set; }
-        public List<Servicio> listServ;
+        public List<Servicio> listServ= new List<Servicio>();
         public Cliente(string nom, string apP, string apM, string cel, string correo, string contra)
         {
             this.Nombre = nom;
