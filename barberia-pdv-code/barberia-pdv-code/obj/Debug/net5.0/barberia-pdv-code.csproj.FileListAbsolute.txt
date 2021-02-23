@@ -13,3 +13,35 @@
 /Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/ref/barberia-pdv-code.dll
 /Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/barberia-pdv-code.pdb
 /Users/aloncello/code/dotNET/poo/poo-barberia/barberia-pdv-code/barberia-pdv-code/obj/Debug/net5.0/barberia-pdv-code.genruntimeconfig.cache
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.csprojAssemblyReference.cache
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.AssemblyInfoInputs.cache
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.AssemblyInfo.cs
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.csproj.CoreCompileInputs.cache
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.dll
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\ref\barberia-pdv-code.dll
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.pdb
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.exe
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.deps.json
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.runtimeconfig.json
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.runtimeconfig.dev.json
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.dll
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\ref\barberia-pdv-code.dll
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.pdb
+C:\Users\K\source\repos\barberia\barberia-pdv\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.genruntimeconfig.cache
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.exe
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.deps.json
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.runtimeconfig.json
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.runtimeconfig.dev.json
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.dll
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\ref\barberia-pdv-code.dll
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\bin\Debug\net5.0\barberia-pdv-code.pdb
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.csprojAssemblyReference.cache
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.AssemblyInfoInputs.cache
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.AssemblyInfo.cs
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.csproj.CoreCompileInputs.cache
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.dll
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\ref\barberia-pdv-code.dll
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.pdb
+C:\Users\K\source\repos\barberia\barberia-pdv - copia\barberia-pdv-code\barberia-pdv-code\obj\Debug\net5.0\barberia-pdv-code.genruntimeconfig.cache
